@@ -23,4 +23,4 @@ function letsPop(board, order){
       return theDoll;
     }
   }
-}
+
