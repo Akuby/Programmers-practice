@@ -30,5 +30,4 @@ function solution(record) {
   }
   console.log(answer);
 }
-
 solution(["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan", "Enter uid2345 Hyewon", "Change uid2345 Hye", "Enter u49283 asdf"]);
